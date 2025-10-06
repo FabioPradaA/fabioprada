@@ -2,34 +2,47 @@
   <img src="https://avatars.githubusercontent.com/FabioPradaA" width="140" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">👋 Hola, soy Fabio</h1>
-<h3 align="center">Estudiante de Tecnología, Innovación y Estrategia Digital</h3>
+<h1 align="center">👋 Hi, I'm Fabio</h1>
+<h3 align="center">Student in Technology, Innovation & Digital Strategy</h3>
 
 ---
 
-## 💡 Sobre mí
+## 💡 About Me
 
-Soy un estudiante apasionado por la **transformación digital**, la **inteligencia artificial** y las **soluciones SaaS** que impulsan la evolución de los negocios.  
-Mi objetivo es combinar tecnología y estrategia para crear soluciones que generen impacto real en las organizaciones y en la sociedad.
-
----
-
-## 🧠 Áreas de Interés
-
-- Transformación Digital  
-- Inteligencia Artificial & Machine Learning  
-- Blockchain & Automatización  
-- Estrategia de Negocios y Go-to-Market  
-- Innovación y Gestión de Proyectos  
-- Cloud Computing y Agilidad Empresarial  
+I’m a student passionate about **digital transformation**, **artificial intelligence**, and **SaaS solutions** that drive business evolution.  
+My goal is to combine technology and strategy to create solutions that generate meaningful impact for organizations and society.
 
 ---
 
-## 🎓 Formación
+## 🧠 Areas of Interest
 
-- 💼 Máster en Project Management – *EAE Business School*  
-- 🎓 Administración de Empresas – *Universidad Externado de Colombia*  
-- 📘 Formación complementaria en:
-  - Transformación Digital (University of Virginia)  
-  - Big Data & IoT (Yonsei University)  
-  - Smart Cities (EPFL)
+- Digital Transformation  
+- Artificial Intelligence & Machine Learning  
+- Blockchain & Automation  
+- Business Strategy & Go-to-Market Models  
+- Innovation & Project Management  
+- Cloud Computing & Agile Methodologies  
+
+---
+
+## ⚙️ Skills
+
+- Strategic and Analytical Thinking  
+- Cross-Cultural Collaboration  
+- Continuous Learning  
+- Communication & Leadership  
+- Curiosity for Technology and Innovation  
+
+---
+
+## 🌱 Currently Learning
+
+- Cloud Fundamentals (AWS / Google Cloud)  
+- Process Automation with AI  
+- Integration of Digital Tools in Business and Operations  
+
+---
+
+<p align="center">
+  <i>“Learning, experimenting, and building the future through technology.”</i>
+</p>
